@@ -6,21 +6,8 @@ that can help paramedics and other first responders, by providing them augmented
 ## About
 ARMedic is the first product that will come out of Telemedic-Solution, providing a prof of concept for their augmented reality medical assistance technology.
 
-##  Technologies
-We curantly suport HoloLens 2 and Quest 3 headsets,
-And are considurign smaller smart glasses as well.
+##  Contact Us
+You can contact us, at [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe_wfUeVaCfzBKPgs7fxSug_ljZIdKynixq8ImKL8lHNRRfvw/viewform?usp=pp_url)
 
-## Roadmap
-
-
-## Feature List
-
-## Use cases
-
-## The Team
-
-
-## Pricing
-
-## Resources
+We will get back to you with our latest updates.
 
